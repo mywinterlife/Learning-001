@@ -1,4 +1,4 @@
-package main.java.StatusTrackers;
+package StatusTrackers;
 
 import java.time.DayOfWeek;
 import java.time.LocalDate;

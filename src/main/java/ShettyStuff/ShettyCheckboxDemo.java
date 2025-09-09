@@ -1,4 +1,4 @@
-package main.java.ShettyStuff;
+package ShettyStuff;
 
 import org.openqa.selenium.By;
 import org.openqa.selenium.WebElement;

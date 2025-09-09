@@ -1,4 +1,4 @@
-package main.java.MentalModelsMetaphors;
+package MentalModelsMetaphors;
 
 public class TypeCooking1
 {

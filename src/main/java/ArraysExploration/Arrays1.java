@@ -1,4 +1,4 @@
-package main.java.ArraysExploration;
+package ArraysExploration;
 
 public class Arrays1 {
     public static void main(String[] args) {

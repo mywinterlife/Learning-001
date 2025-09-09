@@ -1,4 +1,4 @@
-package main.java.Loops;
+package Loops;
 
 import java.util.ArrayList;
 import java.util.List;

@@ -1,4 +1,4 @@
-package main.java.InputLogicOutput;
+package InputLogicOutput;
 
 public class ILO2
 {

@@ -1,4 +1,4 @@
-package main.java.Loops;
+package Loops;
 
 public class forloop4_vehicles
 {

@@ -1,4 +1,4 @@
-package main.java.ShettyStuff;
+package ShettyStuff;
 
 import org.openqa.selenium.chrome.ChromeDriver;
 import org.openqa.selenium.By;

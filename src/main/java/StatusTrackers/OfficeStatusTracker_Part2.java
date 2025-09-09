@@ -1,4 +1,4 @@
-package main.java.StatusTrackers;
+package StatusTrackers;
 
 public class OfficeStatusTracker_Part2
 {

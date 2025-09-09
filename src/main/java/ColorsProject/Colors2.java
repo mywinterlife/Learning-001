@@ -1,4 +1,4 @@
-package main.java.ColorsProject;
+package ColorsProject;
 
 import java.util.ArrayList;
 import java.util.List;
